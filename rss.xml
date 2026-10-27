@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liang Chenghao 的博客</title>
+    <link>https://rxhaol.github.io/blog/</link>
+    <atom:link href="https://rxhaol.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <description>我热衷于把脑海里的点子快速做成能跑起来的产品。这里收录了我用 AI 辅助编码完成的项目、踩过的坑，以及一些随手的思考记录。</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>用 VitePress 搭一个带毛玻璃卡片的个人主页</title>
+      <link>https://rxhaol.github.io/blog/posts/hello-vitepress</link>
+      <guid isPermaLink="true">https://rxhaol.github.io/blog/posts/hello-vitepress</guid>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 GMT</pubDate>
+      <description>为什么我把个人主页从手写 HTML 换成了 VitePress，以及这套靛蓝配色、毛玻璃卡片和自动博客列表是怎么组织的。</description>
+      <category>VitePress</category><category>前端</category><category>建站</category>
+    </item>
+    <item>
+      <title>我的 Vibe Coding 工作流</title>
+      <link>https://rxhaol.github.io/blog/posts/vibe-coding-workflow</link>
+      <guid isPermaLink="true">https://rxhaol.github.io/blog/posts/vibe-coding-workflow</guid>
+      <pubDate>Sun, 16 Feb 2025 00:00:00 GMT</pubDate>
+      <description>用 AI 写代码最容易翻车的地方不是代码质量，而是需求没想清楚。这是我迭代了半年后固定下来的六步流程。</description>
+      <category>Vibe Coding</category><category>方法论</category><category>AI</category>
+    </item>
+  </channel>
+</rss>
